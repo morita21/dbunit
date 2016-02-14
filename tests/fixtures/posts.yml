@@ -1,0 +1,9 @@
+posts:
+  -
+    id: 1
+    title: "joe"
+    content: "Hello buddy!"
+  -
+    id: 2
+    title:
+    content: "I like it!"
